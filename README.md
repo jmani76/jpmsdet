@@ -12,3 +12,6 @@ Assuming maven (mvn) is in your system environment path, execute the following:
 
 `mvn test`
 
+Additionally, I have also enabled Github Actions, so the tests can be built and run using Github Actions.
+
+You can also execute the `Java CI with Maven` CI Workflow manually from Github Actions.
